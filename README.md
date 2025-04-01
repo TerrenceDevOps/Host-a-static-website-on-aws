@@ -1,3 +1,6 @@
+![Alt text](/Host_a_Static_Website_on_AWS.png).
+
+---
 # Host-a-static-website-on-aws
 Host-a-static-website-on-aws
 Here's the updated README file for your project that includes the necessary information about your AWS setup and the deployment script:
