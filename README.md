@@ -1,6 +1,4 @@
-![Alt text](/Host_a_Static_Website_on_AWS.png).
 
----
 # Host-a-static-website-on-aws
 Host-a-static-website-on-aws
 Here's the updated README file for your project that includes the necessary information about your AWS setup and the deployment script:
@@ -11,7 +9,8 @@ Here's the updated README file for your project that includes the necessary info
 
 ## Overview
 This project demonstrates how to host a static HTML web application on Amazon Web Services (AWS). The infrastructure is designed with best practices for scalability, security, and fault tolerance. The project utilizes AWS resources such as EC2, VPC, Auto Scaling, Load Balancer, Route 53, and more. All relevant scripts, architecture diagrams, and configuration files are available in this repository.
-
+![Alt text](/Host_a_Static_Website_on_AWS.png).
+---
 ## Project Architecture
 The infrastructure setup includes the following AWS components:
 1. **Virtual Private Cloud (VPC)** with public and private subnets across two different availability zones for enhanced fault tolerance.
